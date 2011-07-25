@@ -1,0 +1,20 @@
+Simduino
+-------------------
+The object of this project is to create
+a Arduino compatible clone using a minimum 
+of parts.
+-------------------
+Bootloader
+-------------------
+The Simduino uses the USBaspLoader
+http://www.obdev.at/products/vusb/usbasploader.html
+which uses a software only USB driver to connect to the 
+computer without a FTDI chip.
+-------------------
+Board
+-------------------
+The board is based off the metaboard
+http://metalab.at/wiki/Metaboard
+from MetaLab
+http://metalab.at
+-------------------
